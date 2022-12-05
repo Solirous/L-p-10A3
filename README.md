@@ -1,1 +1,2 @@
-# L-p-10A3
+pw:nminhtue123.tuedepzai
+exit code :exit.codetuedepzai
